@@ -1,3 +1,3 @@
-# PostgreSQLの勉強メモ
--  WEB+DB PRESSの記事をまとめたメモ
-
+# PostgreSQL memo
+- [postgres memo](postgres-memo.md) ※WEB+DB PRESSの記事をまとめたメモ
+- [posgres on docker](postgres-on-docker.md)
