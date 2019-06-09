@@ -1,3 +1,3 @@
 # PostgreSQL memo
-- [postgres memo](postgres-memo.md) ※WEB+DB PRESSの記事をまとめたメモ
+- [postgres memo](postgres-memo.md)
 - [posgres on docker](postgres-on-docker.md)
